@@ -16,6 +16,7 @@
 ## Shaders
 
 1. [Hello World](./src/01_hello_world.glsl)
+2. [Uniforms](./src/02_uniforms.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
