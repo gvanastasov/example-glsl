@@ -17,8 +17,11 @@
 
 1. [Hello World](./src/01_hello_world.glsl)
 2. [Uniforms](./src/02_uniforms.glsl)
-3. [Screen Coords](./src/03_screen_coords.glsl)
-4. [Algorithmic Diagonal](./src/04_algorithmic_diagonal.glsl)
+3. Screen Coords
+    - [Normalized](./src/03_screen_coords.glsl)
+    - [Mouse](./src/03-1_mouse_coords.glsl)
+4. Algorithmic Drawing
+    - [Diagonal](./src/04_algorithmic_diagonal.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)

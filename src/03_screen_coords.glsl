@@ -25,6 +25,6 @@ void main() {
         vector that represents the normalized x (s) and y (t) 
         coordinates of a texture.
     */
-    vec2 st = (gl_FragCoord.xy - u_mouse)/u_resolution;
+    vec2 st = gl_FragCoord.xy / u_resolution;
     gl_FragColor = vec4(st.x, st.y, 0.0, 1.0);
 }
