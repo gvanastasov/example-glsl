@@ -28,6 +28,7 @@
     - [Cosine Wave](./src/04-4_algorithmic_cos.glsl)
 5. Colors
     - [Mix](./src/05_mixing_colors.glsl)
+    - [Channels](./src/05-1_mixing_channels.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
