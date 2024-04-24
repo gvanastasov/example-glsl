@@ -26,6 +26,8 @@
     - [Edge](./src/04-2_algorithmic_edge.glsl)
     - [Sine Wave](./src/04-3_algorithmic_sin.glsl)
     - [Cosine Wave](./src/04-4_algorithmic_cos.glsl)
+5. Colors
+    - [Mix](./src/05_mixing_colors.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
