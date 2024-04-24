@@ -23,6 +23,7 @@
 4. Algorithmic Drawing
     - [Diagonal](./src/04_algorithmic_diagonal.glsl)
     - [Curve](./src/04-1_algorithmic_curve.glsl)
+    - [Edge](./src/04-2_algorithmic_edge.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
