@@ -25,6 +25,7 @@
     - [Curve](./src/04-1_algorithmic_curve.glsl)
     - [Edge](./src/04-2_algorithmic_edge.glsl)
     - [Sine Wave](./src/04-3_algorithmic_sin.glsl)
+    - [Cosine Wave](./src/04-4_algorithmic_cos.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
