@@ -17,6 +17,7 @@
 
 1. [Hello World](./src/01_hello_world.glsl)
 2. [Uniforms](./src/02_uniforms.glsl)
+3. [Screen Coords](./src/03_screen_coords.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
