@@ -2,10 +2,10 @@
     precision mediump float;
 #endif
 
+#define PI 3.14159265359
+
 uniform vec2 u_resolution;
 uniform float u_time;
-
-const float PI = 3.14159265359;
 
 float curve(vec2 st) {
     return smoothstep(0.02, 0.0, abs(st.y - st.x));
