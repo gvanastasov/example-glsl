@@ -35,6 +35,7 @@
     - [Day-Night Animation](./src/05-2_mixing_painting.glsl)
     - [Rainbow](./src/05-3_rainbow.glsl)
     - [Country Flags](./src/05-4_flag.glsl)
+    - [HSB angle](./src/05-5_hsb.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
