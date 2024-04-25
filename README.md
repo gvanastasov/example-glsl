@@ -29,6 +29,7 @@
 5. Colors
     - [Mix](./src/05_mixing_colors.glsl)
     - [Channels](./src/05-1_mixing_channels.glsl)
+    - [Day-Night Animation](./src/05-2_mixing_painting.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
