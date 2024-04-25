@@ -26,6 +26,7 @@
     - [Edge](./src/04-2_algorithmic_edge.glsl)
     - [Sine Wave](./src/04-3_algorithmic_sin.glsl)
     - [Cosine Wave](./src/04-4_algorithmic_cos.glsl)
+    - [Circle/Cursor](./src/04-5_algorithmic_cursor.glsl)
 5. Colors
     - [Mix](./src/05_mixing_colors.glsl)
     - [Channels](./src/05-1_mixing_channels.glsl)
