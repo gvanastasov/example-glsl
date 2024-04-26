@@ -38,7 +38,9 @@
     - [Country Flags](./src/05-4_flag.glsl)
     - [HSB angle](./src/05-5_hsb.glsl)
 6. Shapes
-    - [Square Mask](./src/06_shape_square_mask.glsl) - sharp, smooth, outline
+    - [Square Mask](./src/06_shape_square_mask.glsl)
+    - [Square Outline](./src/06_shape_square_outline.glsl)
+    - [Square Path Move](./src/06_shape_square_path.glsl)
 
 
 ## Credits
