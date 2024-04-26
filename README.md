@@ -41,7 +41,9 @@
     - [Square Mask](./src/06_shape_square_mask.glsl)
     - [Square Outline](./src/06_shape_square_outline.glsl)
     - [Square Path Move](./src/06_shape_square_path.glsl)
-
+    - [Circle Fallout](./src/06-1_shape_circle_fallout.glsl)
+    - [Circle Position](./src/06-2_shape_circle.glsl)
+    - [Sound Wave](./src/06-3_shape_circle_wave.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
