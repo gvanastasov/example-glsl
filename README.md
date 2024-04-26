@@ -37,6 +37,9 @@
     - [Rainbow](./src/05-3_rainbow.glsl)
     - [Country Flags](./src/05-4_flag.glsl)
     - [HSB angle](./src/05-5_hsb.glsl)
+6. Shapes
+    - [Square Mask](./src/06_shape_square_mask.glsl) - sharp, smooth, outline
+
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
