@@ -30,6 +30,7 @@
     - [Function Area](./src/04-6_algorithmic_area.glsl)
     - [Polar Coords](./src/04-7_polar_coords.glsl)
     - [Cone](./src/04-8_cone.glsl)
+    - [Line](./src/04-9_line.glsl)
 5. Colors
     - [Mix](./src/05_mixing_colors.glsl)
     - [Channels](./src/05-1_mixing_channels.glsl)
