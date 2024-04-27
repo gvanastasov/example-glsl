@@ -53,6 +53,7 @@
     - [Rotation](./src/07-2_matrix_rotation.glsl)
     - [Scale](./src/07-3_matrix_scale.glsl)
     - [Mul](./src/07-4_matrix_mul.glsl)
+    - [Radar](./src/07-5_radar.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
