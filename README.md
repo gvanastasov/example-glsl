@@ -46,6 +46,8 @@
     - [Sound Wave](./src/06-3_shape_circle_wave.glsl)
     - [Cross](./src/06-4_cross.glsl)
     - [Ngon](./src/06-5_shape_ngon.glsl)
+7. Matrices
+    - [Translate](./src/07_matrix_translate.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
