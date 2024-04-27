@@ -18,7 +18,7 @@ float maskCircle(in vec2 space, in vec2 pos, in float radius, in float feather) 
 
 void main() {
     vec2 st = gl_FragCoord.xy / u_resolution;
-
+    st = st * 2.0 - 1.0;
     float angle = sin(u_time * FREQUENCE) * PI * ARC_ANGLE / 360.;
 
     vec2 translate = vec2(sin(angle), cos(angle)) * 0.5 * ARM_LEN;
@@ -28,9 +28,10 @@ void main() {
         Notice we dont move the center of the circle, we move the origin of the space
         its relative to it.
     */
-    float mask = maskCircle(st, vec2(0.5, 0.5), 0.005, 0.001) * (1.- abs(angle));
+    float mask = maskCircle(st, vec2(0.5, 0.5), 0.005, 0.001);
 
-    vec3 color = vec3(mask);
+    vec3 color = vec3(st, 0);
+    color = mix(color, vec3(0.0, 0.0, 1.0), mask);
 
     gl_FragColor = vec4(color, 1.0);
 }
