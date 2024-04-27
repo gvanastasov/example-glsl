@@ -49,6 +49,7 @@
 7. Matrices
     - [Translate](./src/07_matrix_translate.glsl)
     - [Pendulum](./src/07-1_matrix_pendulum.glsl)
+    - [Rotation](./src/07-2_matrix_rotation.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
