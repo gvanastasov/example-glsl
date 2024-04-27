@@ -18,7 +18,6 @@ float maskCircle(in vec2 space, in vec2 pos, in float radius, in float feather) 
 
 void main() {
     vec2 st = gl_FragCoord.xy / u_resolution;
-    st = st * 2.0 - 1.0;
     float angle = sin(u_time * FREQUENCE) * PI * ARC_ANGLE / 360.;
 
     vec2 translate = vec2(sin(angle), cos(angle)) * 0.5 * ARM_LEN;
