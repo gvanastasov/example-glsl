@@ -44,7 +44,8 @@
     - [Circle Fallout](./src/06-1_shape_circle_fallout.glsl)
     - [Circle Position](./src/06-2_shape_circle.glsl)
     - [Sound Wave](./src/06-3_shape_circle_wave.glsl)
-    - [Ngon](./src/06-4_shape_ngon.glsl)
+    - [Cross](./src/06-4_cross.glsl)
+    - [Ngon](./src/06-5_shape_ngon.glsl)
 
 ## Credits
 based on [The Book of Shaders](https://thebookofshaders.com/)
