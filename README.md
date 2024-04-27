@@ -54,6 +54,8 @@
     - [Scale](./src/07-3_matrix_scale.glsl)
     - [Mul](./src/07-4_matrix_mul.glsl)
     - [Radar](./src/07-5_radar.glsl)
+8. Patterns
+    - [Grid](./src/08-1_grid.glsl)
 
 ## Credits
-based on [The Book of Shaders](https://thebookofshaders.com/)
+inspired by [The Book of Shaders](https://thebookofshaders.com/)
