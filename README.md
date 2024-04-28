@@ -56,6 +56,7 @@
     - [Radar](./src/07-5_radar.glsl)
 8. Patterns
     - [Grid](./src/08-1_grid.glsl)
+    - [Grid Cell](./src/08-2_grid-cell.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
