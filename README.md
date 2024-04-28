@@ -57,6 +57,7 @@
 8. Patterns
     - [Grid](./src/08-1_grid.glsl)
     - [Grid Cell](./src/08-2_grid-cell.glsl)
+    - [Tic-tac-toe](./src/08-3_tic-tac-toe.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
