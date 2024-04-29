@@ -63,6 +63,7 @@
     - [Net](./src/08-6_net.glsl)
     - [Scottish Tartan](./src/08-6_scottish_tartan.glsl)
     - [Offset](./src/08-7_offset.glsl)
+    - [Belts](./src/08-8_belts.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
