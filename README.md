@@ -64,6 +64,7 @@
     - [Scottish Tartan](./src/08-6_scottish_tartan.glsl)
     - [Offset](./src/08-7_offset.glsl)
     - [Belts](./src/08-8_belts.glsl)
+    - [Truchet](./src/08-9_truchet_tile.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
