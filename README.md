@@ -67,6 +67,8 @@
     - [Belts](./src/08-8_belts.glsl)
     - [Truchet](./src/08-9_truchet_tile.glsl)
     - [Hex Grid](./src/08-10_hex.glsl)
+9. Random
+    - [1D](./src/09-1_random.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
