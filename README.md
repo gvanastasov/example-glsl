@@ -72,6 +72,7 @@
     - [2D Noise](./src//09-2_2d_noise.glsl)
     - [10 Print](./src/09-3_10print.glsl)
     - [Barcode](./src/09-4_barcode.glsl)
+    - [Matrix](./src/09-5_matrix.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
