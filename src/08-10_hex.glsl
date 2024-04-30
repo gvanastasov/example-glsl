@@ -33,10 +33,9 @@ float hex(vec2 st, float columns, float size, float feather) {
 
 void main() 
 {
-    // vec2 st = (2.0 * gl_FragCoord.xy - u_resolution) / u_resolution.y;
 	vec2 st = gl_FragCoord.xy/u_resolution;
 
-    float mask = hex(st, 3.0, .8, 0.01);
+    float mask = hex(st, 8.0, .8, 0.01);
 
     vec3 color = vec3(mask);
     gl_FragColor = vec4(color, 1.0);
