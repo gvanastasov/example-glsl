@@ -52,6 +52,7 @@
     - [Pendulum](./src/07-1_matrix_pendulum.glsl)
     - [Rotation](./src/07-2_matrix_rotation.glsl)
     - [Scale](./src/07-3_matrix_scale.glsl)
+    - [Skew](./src/07-3_skew.glsl)
     - [Mul](./src/07-4_matrix_mul.glsl)
     - [Radar](./src/07-5_radar.glsl)
 8. Patterns
