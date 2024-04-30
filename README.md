@@ -70,6 +70,7 @@
 9. Random
     - [1D](./src/09-1_random.glsl)
     - [2D Noise](./src//09-2_2d_noise.glsl)
+    - [10 Print](./src/09-3_10print.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
