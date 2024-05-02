@@ -78,6 +78,7 @@
     - [Gradient Noise](./src/09-8_gradient_noise.glsl)
     - [Wood Stripes](./src/09-9_wood_stripes.glsl)
     - [Silk](./src/09-10_silk.glsl)
+    - [Simplex Grid](./src/09-11_simplex.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
