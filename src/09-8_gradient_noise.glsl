@@ -47,6 +47,7 @@ void main() {
 
     vec2 pos = vec2(st * 100.0);
 
+    // random noise value is between -1 and 1, so we need to normalize it to 0-1 into color space.
     vec3 color = vec3(noise(pos) *.5 + .5);
 
     gl_FragColor = vec4(color, 1.0);

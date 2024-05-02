@@ -16,8 +16,14 @@ float noise(vec2 st) {
     vec2 i = floor(st);
     vec2 f = fract(st);
 	
+    // get smooth value inside each individual fraction of our grid space
+    // aka. normalize the value to be between 0 and 1 for each fraction
 	vec2 u = f * f * (3.0 - 2.0 * f);
 
+    // get a random VALUE for each corner
+    // and interpolate between them using the smooth value to get a fixed
+    // VALUE without any interpolation artifacts from neighboring cells
+    // hence called VALUE noise
     return mix(
         mix(
             random(i + vec2(0.0, 0.0)), random(i + vec2(1.0, 0.0)), u.x
