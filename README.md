@@ -83,6 +83,7 @@
     - [Cellular Isolines (PRND)](./src/09_13-cell-isolines.glsl)
     - [Voronoi](./src/09_14-voronoi.glsl)
     - [Metaballs](./src/09_15-metaballs.glsl)
-    
+    - [Voronoi Outline](./src/09_16-voronoi_outline.glsl)
+
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
