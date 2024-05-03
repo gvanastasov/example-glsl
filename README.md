@@ -81,6 +81,7 @@
     - [Simplex Grid](./src/09-11_simplex.glsl)
     - [Cellular](./src/09_12-cell.glsl)
     - [Cellular Isolines (PRND)](./src/09_13-cell-isolines.glsl)
+    - [Voronoi](./src/09_14-voronoi.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
