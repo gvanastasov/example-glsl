@@ -89,6 +89,7 @@
     - [Wave](./src/10-1_wave.glsl)
     - [Cloud](./src/10-2_cloud.glsl)
     - [Endless Height Map](./src/10-3_endless_height_map.glsl)
+    - [Turbolence](./src/10-4_turbolence.glsl)
     
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
