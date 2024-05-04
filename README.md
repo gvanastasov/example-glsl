@@ -79,6 +79,7 @@
     - [Wood Stripes](./src/09-9_wood_stripes.glsl)
     - [Silk](./src/09-10_silk.glsl)
     - [Simplex Grid](./src/09-11_simplex.glsl)
+    - [Simplex Noise](./src/9_12_simplex_noise.glsl)
     - [Cellular](./src/09_12-cell.glsl)
     - [Cellular Isolines (PRND)](./src/09_13-cell-isolines.glsl)
     - [Voronoi](./src/09_14-voronoi.glsl)
