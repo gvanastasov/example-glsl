@@ -86,6 +86,7 @@
     - [Voronoi Outline](./src/09_16-voronoi_outline.glsl)
 10. Fractal Brownian Motion
     - [Wave](./src/10-1_wave.glsl)
+    - [Cloud](./src/10-2_cloud.glsl)
     
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
