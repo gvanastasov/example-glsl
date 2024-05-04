@@ -27,9 +27,10 @@ float simplexNoise2D(vec2 st) {
     // First corner (x0)
     vec2 x0 = st - i + dot(i, vec2(G2));
 
+    // Lower triangle, XY order or upper triangle YX order based
+    // on orientation of the triangle
     vec2 i1;
-    if (x0.x > x0.y) i1 = vec2(1.0, 0.0); // Lower triangle, XY order
-    else i1 = vec2(0.0, 1.0); // Upper triangle, YX order
+    i1 = mix(vec2(1.0, 0.0), vec2(0.0, 1.0), step(x0.x, x0.y));
 
     // Second and Third corners (x1, x2)
     vec2 x1 = x0 - i1 + vec2(G2);
