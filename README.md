@@ -84,6 +84,8 @@
     - [Voronoi](./src/09_14-voronoi.glsl)
     - [Metaballs](./src/09_15-metaballs.glsl)
     - [Voronoi Outline](./src/09_16-voronoi_outline.glsl)
+10. Fractal Brownian Motion
+    - [Wave](./src/10-1_wave.glsl)
 
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
