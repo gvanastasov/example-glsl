@@ -1,5 +1,7 @@
 # example-glsl
 
+![pulse-shaders-demo](.github/pulse.gif)
+
 ## Development (VSCode)
 
 1. Install language support for VSCode - [https://marketplace.visualstudio.com/items?itemName=slevesque.shader](Shader languages support for VS Code).
