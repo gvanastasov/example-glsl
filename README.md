@@ -74,7 +74,7 @@ A fragment shader, also known as a pixel shader, is a type of shader in the Open
     - [Scottish Tartan](./src/08-6_scottish_tartan.glsl)
     - [Offset](./src/08-7_offset.glsl)
     - [Belts](./src/08-8_belts.glsl)
-    - [Truchet](./src/08-9_truchet_tile.glsl)
+    - [Truchet](./src/08-9_truchet.glsl)
     - [Hex Grid](./src/08-10_hex.glsl)
 9. Random
     - [1D](./src/09-1_random.glsl)
