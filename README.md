@@ -90,6 +90,7 @@
     - [Cloud](./src/10-2_cloud.glsl)
     - [Endless Height Map](./src/10-3_endless_height_map.glsl)
     - [Turbolence](./src/10-4_turbolence.glsl)
+    - [Ridges](./src/10-5_ridge.glsl)
     
 ## Credits
 inspired by [The Book of Shaders](https://thebookofshaders.com/)
