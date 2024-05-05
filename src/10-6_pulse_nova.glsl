@@ -105,11 +105,10 @@ float circleMask(vec2 p)
 void main() {
     vec2 st = gl_FragCoord.xy/u_resolution.xy;
     st.x *= u_resolution.x/u_resolution.y;
-    st = st*2.0 - 1.0;
-
-    st = st*4.0;
+    st = st * 2.0 - 1.0;
+    st = st * (2. + dot(st, st));
     
-    float ridge = turbolence(st);
+    float ridge = turbolence(rotate2d(u_time * 0.1) * st);
 
     st /= exp(mod(u_time, PI));
 	
