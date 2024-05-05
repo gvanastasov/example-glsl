@@ -1,4 +1,6 @@
-# example-glsl
+# Example GLSL
+
+Just another demo repository showing the capabilities of shading (starting with some very basics and then trying out some more complex cases).
 
 ![pulse-shaders-demo](.github/pulse.gif)
 
@@ -13,7 +15,12 @@
 ## Topics
 
 1. Whats glsl?
+
+GLSL, or the OpenGL Shading Language, is a high-level shading language used to program shaders in OpenGL, OpenGL ES, and Vulkan. It's specifically designed for writing shaders that run directly on the GPU, allowing developers to specify how vertices and fragments (pixels) are processed during rendering. GLSL offers a wide range of features for creating complex visual effects, including vertex shaders, fragment shaders, geometry shaders, and compute shaders.
+
 2. Whats fragment shader?
+
+A fragment shader, also known as a pixel shader, is a type of shader in the OpenGL pipeline responsible for computing the color and other attributes of each pixel (fragment) being rendered on the screen. It operates on individual fragments after the rasterization stage, determining their final color based on various factors such as lighting, textures, and other shader inputs. Fragment shaders are commonly used for tasks like applying materials, adding visual effects, and post-processing the rendered image before it's displayed to the screen. In the context of your GLSL repository, focusing on fragment shaders allows you to explore the visual aspects of shader programming, making them ideal for learning and experimentation.
 
 ## Shaders
 
